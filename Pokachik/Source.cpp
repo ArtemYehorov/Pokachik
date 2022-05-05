@@ -65,7 +65,7 @@ using namespace std;
 int main()
 {
 	const int SIZE = 5;
-	int arr1[SIZE] = { 1,2,3,4,5 };
+	int arr1[SIZE] = { 1,22,37,4,16 };
 	int arr2[SIZE];
 
 	int* Parr1 = arr1 + 4;
